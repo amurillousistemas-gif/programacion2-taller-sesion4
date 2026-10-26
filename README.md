@@ -46,7 +46,6 @@ classDiagram
     Empleado <|-- Administrativo
 ```
 
-(Para el `diagrama.png`, pegue este código en https://mermaid.live o dibújelo en draw.io.)
 
 ## Parte A. Comprensión de conceptos
 
